@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I am profiecient in front-end development using React.js and  learning back-end development using MERN. I am also familiar with UI/UX tools like Figma.
+      I am profiecient in front-end development using React.js and   back-end development using MERN. I am also familiar with UI/UX tools like Figma.
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            React.js, Redux , Typescript
           </ListParagraph>
         </ListContainer>
       </ListItem>

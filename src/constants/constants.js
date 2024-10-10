@@ -9,23 +9,24 @@ export const projects = [
     id: 0,
   },
   {
+    title: 'HealthCare',
+    description: "The HealthCare built using Typescript, TailwindCss and ShadCNN is a user-friendly application that allows patients to book appointments and admin to schedule and cancel the appointments",
+      image: '/images/3..png',
+      tags: ['TypeScript', 'Tailwindcss','ShadCNN'],
+    source: 'https://github.com/ChandramitaSantra/Carepulse',
+    visit: 'https://carepulse-bice-theta.vercel.app/',
+    id: 1,
+  },
+  {
     title: ' Modern UI-UX',
     description:"The modern UI/UX responsive website, crafted using fundamental CSS properties and soft animations, delivers an aesthetically pleasing and seamless user experience through carefully designed layouts, responsive grids, and subtle animations. ",
     image: '/images/2..png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/ChandramitaSantra/modernui-ux',
     visit: 'https://modern-ui-ux-this.vercel.app/',
-    id: 1,
-  },
-  {
-    title: 'Fitness App',
-    description: "The fitness app built using React and Rapid APIs is a user-friendly application that fetches a wide range of exercises from various sources and provides curated YouTube videos to guide users in their fitness routines. With its intuitive interface and seamless integration of exercise data and instructional videos, the app offers a convenient and comprehensive solution for users to enhance their fitness journey.",
-      image: '/images/3..png',
-      tags: ['React', 'Rapid-API','Material-UI'],
-    source: 'https://github.com/ChandramitaSantra/Gym',
-    visit: 'https://gym-three-beta.vercel.app/',
     id: 2,
   },
+  
   {
     title: 'Codepen-Clone',
     description: "The CodePen clone, developed using React and JavaScript, offers developers a platform to write, test, and share HTML, CSS, and JavaScript code snippets. With its intuitive interface and live preview functionality, users can experiment, collaborate, and showcase their coding skills in a user-friendly environment.",
